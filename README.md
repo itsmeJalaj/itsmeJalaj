@@ -1,3 +1,4 @@
+<img width="800" height="600" alt="programmer" src="https://github.com/user-attachments/assets/16538211-c137-425b-ab64-104719ba3f74" />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jalaj-patel-081555272/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jalajpatel268@gmail.com) 
